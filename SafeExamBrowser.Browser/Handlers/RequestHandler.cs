@@ -158,6 +158,8 @@ namespace SafeExamBrowser.Browser.Handlers
 			return isConfigurationFile;
 		}
 
+
+
 		private bool IsQuitUrl(IRequest request)
 		{
 			var isQuitUrl = false;
